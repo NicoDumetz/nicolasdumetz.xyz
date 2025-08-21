@@ -58,7 +58,7 @@ export default function NavBar({
                 <nav className="flex text-white font-neueMontreal font-medium text-base leading-4 tracking-normal whitespace-nowrap">
                     <a href="#home" onClick={handleClick} className="mr-2 hover:underline">Home,</a>
                     <a href="#about" onClick={handleClick} className="mr-2 hover:underline">About,</a>
-                    <a href="#project" onClick={handleClick} className="mr-2 hover:underline">Project,</a>
+                    <a href="#project" onClick={handleClick} className="mr-2 hover:underline">Project's,</a>
                     <a href="#contact" onClick={handleClick} className="hover:underline">Contact</a>
                 </nav>
             </div>
