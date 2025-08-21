@@ -10,15 +10,13 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-
-    /* Linting */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "exactOptionalPropertyTypes": true,
+    "exactOptionalPropertyTypes": false,
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "noImplicitThis": true,
@@ -34,12 +32,11 @@
     "removeComments": true,
     "noErrorTruncation": true,
     "preserveWatchOutput": false,
-
-    /* Alias */
     "baseUrl": ".",
     "paths": {
       "~/*": ["src/*"]
-    }
+    },
+    "types": ["node"]
   },
   "include": ["src", "types"],
   "references": [{ "path": "./tsconfig.node.json" }]
