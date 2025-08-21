@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  overflow-x: hidden;
+}
+
+:root {
+  line-height: 1;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: black;
+  background-color: #03000b;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+@font-face {
+  font-family: 'Tusker';
+  src: url('/tusker-grotesk/TuskerGrotesk-2600Semibold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Migra';
+  src: url('/migra/Migra-Extrabold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Neue-Montreal';
+  src: url('/neue-montreal/NeueMontreal-Medium.otf') format('opentype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Zuecos';
+  src: url('/zuecos/ZuecosCF-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}

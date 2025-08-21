@@ -1,0 +1,11 @@
+Model Information:
+* title:	Déco cadre - La Gare St Lazare, Monet
+* source:	https://sketchfab.com/3d-models/deco-cadre-la-gare-st-lazare-monet-cbe9a141ffa74b199d855ce58f9cda42
+* author:	Pyramidas (https://sketchfab.com/Pyramidas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Déco cadre - La Gare St Lazare, Monet" (https://sketchfab.com/3d-models/deco-cadre-la-gare-st-lazare-monet-cbe9a141ffa74b199d855ce58f9cda42) by Pyramidas (https://sketchfab.com/Pyramidas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
