@@ -16,12 +16,10 @@
     "noFallthroughCasesInSwitch": true,
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
-    "exactOptionalPropertyTypes": false,
+    "exactOptionalPropertyTypes": true,
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "noImplicitThis": true,
-    "noUncheckedIndexedAccess": false,
-    "noPropertyAccessFromIndexSignature": false,
     "strictBindCallApply": true,
     "strictFunctionTypes": true,
     "strictNullChecks": true,
@@ -31,7 +29,6 @@
     "noImplicitReturns": true,
     "removeComments": true,
     "noErrorTruncation": true,
-    "preserveWatchOutput": false,
     "baseUrl": ".",
     "paths": {
       "~/*": ["src/*"]
