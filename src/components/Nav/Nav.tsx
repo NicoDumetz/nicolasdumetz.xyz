@@ -52,8 +52,8 @@ export default function NavBar({
             }}>
             <div className="flex justify-between items-center w-full h-full">
                 <div className="flex flex-col md:flex-row items-start md:items-center md:gap-6">
-                    <a href="google.com" className="text-white font-migra font-medium text-base leading-4 tracking-normal whitespace-nowrap">Nicolas Dumetz</a>
-                    <span className="text-white font-neueMontreal tracking-wide uppercase md:text-base text-xs">Developer free-lance</span>
+                    <a href="/" className="text-white font-migra font-medium text-base leading-4 tracking-normal whitespace-nowrap">Nicolas Dumetz</a>
+                    <span className="text-white font-neueMontreal tracking-wide uppercase md:text-base text-xs">Developer freelance</span>
                 </div>
                 <nav className="flex text-white font-neueMontreal font-medium text-base leading-4 tracking-normal whitespace-nowrap">
                     <a href="#home" onClick={handleClick} className="mr-2 hover:underline">Home,</a>
