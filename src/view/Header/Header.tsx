@@ -90,7 +90,7 @@ export default function Header(
             ready={showText}
           />
           <SplitText
-            text="at Epitech Lille. I am passionate about AI and embedded programming. I am open to freelancing opportunities in these fields or in web development."
+            text="at Epitech Lille. I am passionate about AI and embedded programming. I am currently looking for an internship in these fields."
             className="text-left text-base md:text-xl lg:text-2xl xl:text-4xl uppercase"
             delay={50}
             duration={1}

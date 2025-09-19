@@ -42,7 +42,7 @@ export default function About({ portfolioVisible, backgroundVisible, grayBgOpaci
               textAlign="right"
               ready={grayBgOpacity > 0.1} />
             <SplitText
-              text="I’m already ready to deliver professional results, blending strong technical skills with a genuine passion for breakthroughs in neuroscience, a field that truly inspires me. Open to international collaboration, I focus on ambitious projects where I can contribute my skills."
+              text="I’m already ready to deliver professional results, blending strong technical skills with a genuine passion for breakthroughs in neuroscience, a field that truly inspires me. I focus on ambitious projects where I can contribute my skills."
               className="text-left text-xl md:text-2xl lg:-ext-3xl 2xl:text-4xl uppercase font-neueMontreal"
               delay={50}
               duration={0.6}
